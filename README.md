@@ -7,9 +7,8 @@ A bunch of files for driving hardware without using libraries provided by Texas!
 =========
 
 Libraries included:
-	DS1602 2x16 Alphamuneric Display Driver
-	Internal Hardware "drivers" for PLL and Systick
+-DS1602 2x16 Alphamuneric Display Driver
+-Internal Hardware "drivers" for PLL and Systick
 
 Coming soon:
-	Sharp Memory LCD BoosterPack
-			
+-Sharp Memory LCD BoosterPack			
